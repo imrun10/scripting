@@ -1,2 +1,2 @@
 # scripting
-Scripting for my unity game
+Scripting for my Unity game.
